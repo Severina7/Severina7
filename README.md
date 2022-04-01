@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Severina7
+- 👋🏿 Hi, I’m @Severina7
 - 👀 I’m interested in improving the impact of big data on our everyday's lives particularly minorities.
 - 🌱 I’m currently learning coding and mastering my analytics skills
 - 💞️ I’m looking to collaborate on any projects that have a strong financial and/or security component. It's pretty broad but bear with me, I am just starting.
