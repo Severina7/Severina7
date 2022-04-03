@@ -33,6 +33,7 @@ You can click the Preview link to take a look at your changes.
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/RDBMS-MySQL-yellowgreen" />
   <img alt="PyPI - Python Version" src="https://img.shields.io/pypi/pyversions/pandas">
+  <img alt="PyPI - Python Version" src="https://img.shields.io/badge/Python-Pandas-blue">
 </p>
 
 <!---
