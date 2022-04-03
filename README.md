@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 🌱 <b>Looking to Collaborate!!!</b>
 <br>
-💞️ If you are working on anything Data Science that deals with Finance, Sustainability of Energy & Data Safety, sign me in! 😏 
+💞️ If you are working on anything Data Science that deals with Finance, Energy Sustainability & Cybersecurity, sign me in! 😏 
 <br>
 <br>
 📫 <b>How to reach me:</b> Don't worry about it. I'll find you. Just kidding. Email me @ arsene.boundaone@gmail.com
