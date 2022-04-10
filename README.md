@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 <p>I am currently studying Data Science at CodeUp, Jemison cohort. <b>Go Jemison!!</b></p>
 
 <h3>👀 I’m interested in: </h3><img align="right" img alt="looking on the bright side" src="https://media.giphy.com/media/D878w4pb4LzMI/giphy.gif" />
-<li> Music (Afro beats/polyharmonic, classical, reggae, blues... just good music) 🎶🎧 </li>
+<li> Music (Afro beats/polyharmonic, classical, reggae, blues, zouk/compa, EDM and the like ... just good music) 🎶🎧 </li>
 <li> Data Science 🧮 </li> 
 <li>Climbing 🧗🏿 </li> 
 <li>Reading 📖 </li>
