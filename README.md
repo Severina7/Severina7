@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 <li>Reading 📖 </li>
 <li>History of conflict and human race 🔫🦠&🗡, Philosophies & Theologies that govern our thinking, and everything science 🔬🧪⚡️ </li> 
 <li>Everything Marvel and Taika Waititi (Hunt for the Wilderpeople is amazing!) 🎥 🍿 </li>
-<li>Inclusivity, Social Justice, Positivity (Example of Bryan up there on the cross)</li>
+<li>Inclusivity, Social Justice, Positivity </li>
 <br>
 <p>
   
