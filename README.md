@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 <p>AKA Arsene Severin Boundaone. </b></p>
 <p>I am currently studying Data Science at CodeUp, Jemison cohort. <b>Go Jemison!!</b></p>
 
-<h3>👀 I’m interested in:
+<h3>I’m interested in:
 <li> Data Science 🧮 </li>
 <li>Inclusivity, Social Justice, Positivity </li>
 <li> Music (Afro beats/polyharmonic, classical, reggae, blues, zouk/compa, EDM and the like ... just good music) 🎶🎧 </li>
