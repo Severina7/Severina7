@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 
 <h3>I’m interested in:
 <li> Data Science 🧮 </li>
-<li>Inclusivity, Social Justice, Positivity </li>
+<li>Inclusivity, Social Justice, Antiracism, Positivity </li>
 <li> Music (Afro beats/polyharmonic, classical, reggae, blues, zouk/compa, EDM and the like ... just good music) 🎶🎧 </li>
 <li>Climbing 🧗🏿 </li> 
 <li>Reading 📖 </li>
