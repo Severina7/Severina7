@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <h1>👋🏿 Hi, I’m Severina7 </h1>
 <p>AKA Arsene Severin Boundaone. </b></p>
-<p>I am currently studying Data Science at CodeUp, Jemison cohort. <b>Go Jemison!!</b></p>
+<p>Data scientist looking for  job as Data Analyst, Data Scientist, Project Manager (I've got a PMP and experience!)</b></p>
 
 <h3>I’m interested in:
 <li> Data Science 🧮 </li>
